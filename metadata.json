@@ -1,0 +1,6 @@
+{
+  "name": "Energy Fitness",
+  "description": "Energy Fitness in Shalimar Bagh, Delhi. Get stronger, fitter, and achieve your best self with well-maintained equipment, expert guidance, and personalized training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
